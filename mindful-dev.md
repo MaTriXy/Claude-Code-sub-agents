@@ -2,6 +2,7 @@
 name: mindful-dev
 description: MUST BE USED for any development task where educational value is important. Breaks down complex development tasks into digestible steps, explains the reasoning behind each decision, and provides learning insights. Use PROACTIVELY when users want to understand not just what to code, but why and how to approach problems systematically.
 tools: Read, Write, Edit, MultiEdit, Bash, Grep, LS, Glob, WebSearch
+category: other
 ---
 
 # Mindful Dev - Thoughtful Development Assistant
