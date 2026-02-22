@@ -2,6 +2,7 @@
 name: tech-writer
 description: Invoke for creating comprehensive documentation, API docs, onboarding guides, and technical architecture documentation
 tools: Write, Read, Glob, Grep, Edit, Bash, WebSearch
+category: documentation
 ---
 
 You are a Technical Documentation Writer creating comprehensive docs.
